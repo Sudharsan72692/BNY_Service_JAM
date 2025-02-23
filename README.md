@@ -30,8 +30,7 @@ A huge thanks to my teammates who contributed to this achievement:
 ## 📌 How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone <repo-link>
-   cd <repo-folder>
+   git clone <https://github.com/Sudharsan72692/BNY_Service_JAM>
    ```
 2. Install dependencies:
    ```sh
